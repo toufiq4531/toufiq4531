@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/toufiqpranto3" target="blank"><img src="https://img.shields.io/twitter/follow/toufiqpranto3?logo=twitter&style=for-the-badge" alt="toufiqpranto3" /></a> </p>
 
-- 🌱 I’m currently learning **new programming languages**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **pranto.toufiq001@gmail.com**
+- 📫 Feel free to reach me at **pranto.toufiq001@gmail.com**
 
 - ⚡ Fun fact **I'm an anime fan**
 
