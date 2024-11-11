@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiq4531&label=Profile%20views&color=0e75b6&style=flat" alt="toufiq4531" /> </p>
 
 <p align="left"><a href="https://www.facebook.com/pranto.toufiq404" target="blank">
-    <img src="https://img.shields.io/badge/follow-Toufiq-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" alt="pranto.toufiq404" /> </a>
+    <img src="https://img.shields.io/badge/follow-Toufiqul Islam Pranto-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" alt="pranto.toufiq404" /> </a>
     
    <a href="https://www.instagram.com/405.found.toufiq/" target="blank">
     <img src="https://img.shields.io/badge/follow-405.found.toufiq-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="405.found.toufiq" /> </a>
