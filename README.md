@@ -8,7 +8,9 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiq4531&label=Profile%20views&color=0e75b6&style=flat" alt="toufiq4531" /> </p>
 
-<p align="left"> <a href="https://twitter.com/toufiqpranto3" target="blank"><img src="https://img.shields.io/twitter/follow/toufiqpranto3?logo=twitter&style=for-the-badge" alt="toufiqpranto3" /></a> </p>
+<p align="left"><a href="https://www.instagram.com/405.found.toufiq/" target="blank">
+    <img src="https://img.shields.io/badge/follow-405.found.toufiq-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="405.found.toufiq" /> </a>
+</p>
 
 - 🌱 I’m currently learning **Python**
 
